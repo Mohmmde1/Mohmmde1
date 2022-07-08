@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohammedfuadalnashriy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NImqfIzbyQrtIgQM_IkW1i0tAC9QGN5g/view?usp=sharing](https://drive.google.com/file/d/1NImqfIzbyQrtIgQM_IkW1i0tAC9QGN5g/view?usp=sharing)
+- 📄 Know about my experiences [CV's link](https://drive.google.com/file/d/1NImqfIzbyQrtIgQM_IkW1i0tAC9QGN5g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
