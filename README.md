@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmmde1" alt="mohmmde1" /></a> </p>
 
+- 🔭 I’m currently working on [musicPlayer](https://github.com/Mohmmde1/MusicPlayer.git)
+
 - 🌱 I’m currently learning **Machine Learning algorithms**
 
 - 📫 How to reach me **mohammedfuadalnashriy@gmail.com**
