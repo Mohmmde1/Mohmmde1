@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fuad</h1>
-<h3 align="center">A passionate Machine Learning developer from Yemen</h3>
+<h3 align="center">A passionate software engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmde1&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmde1" /> </p>
 
