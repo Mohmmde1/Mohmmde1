@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmmde1" alt="mohmmde1" /></a> </p>
 
-- 🔭 I’m currently working on [musicPlayer](https://github.com/Mohmmde1/MusicPlayer.git)
+- 🔭 I’m currently working on mobile application
 
-- 🌱 I’m currently learning **Machine Learning algorithms**
+- 🌱 I’m currently learning **Machine Learning algorithms and Flutter**
 
 - 📫 How to reach me **mohammedfuadalnashriy@gmail.com**
 
