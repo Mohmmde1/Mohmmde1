@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmmde1" alt="mohmmde1" /></a> </p>
 
-- 🔭 I’m currently working on mobile application
+- 🔭 I’m currently working on a web application with django.
 
-- 🌱 I’m currently learning **Machine Learning algorithms and Flutter**
+- 🌱 I’m currently learning **Machine Learning algorithms and Django**
 
 - 📫 How to reach me **mohammedfuadalnashriy@gmail.com**
 
